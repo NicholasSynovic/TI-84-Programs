@@ -1,0 +1,11 @@
+Input Prints"Input List: ",L₁
+
+dim(L₁)→D
+mean(L₁)→M
+variance(L₁)→V
+stdDev(L₁)→S
+
+Disp "Dim.: ",D
+Disp "Mean: ",M
+Disp "Varience: ",V
+Disp "Std Dev.: ",S

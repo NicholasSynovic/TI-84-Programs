@@ -1,0 +1,12 @@
+Input "Input List: ",L₁
+
+dim(L₁)→D
+mean(L₁)→M
+
+For(A,1,dim(L₁),1)
+L₁(A)-M→L₂(A)
+End
+
+Disp "Dim.: ",D
+Disp "Mean: ",M
+Disp "Dev.: ",L₂

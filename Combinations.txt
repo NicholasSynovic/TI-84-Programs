@@ -1,0 +1,6 @@
+Input "Input n: ",N
+Input "Input k: ",K
+
+N!/(K!(N-K)!)→C
+
+Disp "N choose K / K!: ",C
