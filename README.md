@@ -5,9 +5,9 @@
 This repository is meant to hold both the .txt source and the .8xp compiled files for programs that are to be ran on the TI 84 family of calculators.
 
 ## How to Use
-0. Download TI Connect
-1. Download the `.8xp` file(s)
-2. In TI Connect, *send the `.8xp` files to your device*
+1. Download TI Connect
+2. Download the `.8xp` files in `compiled`
+3. In TI Connect, *send the `.8xp` files to your device*
 
 ## How to Write / Compile Your Own Programs
 This is not meant to be a tutorial, but here is a list of resources:
